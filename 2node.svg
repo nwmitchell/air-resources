@@ -5,7 +5,7 @@
 		.st1 {stroke:#ff5050;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st2 {stroke:#0070c0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st3 {fill:none;stroke:none;stroke-width:0.25}
-		.st4 {fill:#4672c4;font-family:Calibri;font-size:12}
+		.st4 {fill:#4672c4;font-family:Calibri;font-size:20px}
 		.st5 {fill:none;stroke:#0070c0;stroke-width:0.75}
 		.st6 {fill:none;stroke:#ff5050;stroke-width:0.75}
 		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
