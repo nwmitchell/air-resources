@@ -8,7 +8,7 @@
 		.st1 {fill:none;stroke:none;stroke-width:0.25}
 		.st2 {stroke:#ff5050;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st3 {stroke:#0070c0;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
-		.st4 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st4 {fill:#000000;font-family:Calibri;font-size:9pt}
 		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
