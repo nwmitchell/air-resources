@@ -2,7 +2,7 @@
 
 cp ../cumulus_dgx_reference/inventories/dgx_2node/topology.svg 2node.svg
 sed -i '1,3d' 2node.svg
-sed -i 's/font-size:1.00001em/font-size:9px/' 2node.svg
+sed -i 's/font-size:1.00001em/font-size:12px/' 2node.svg
 sed -i '/<!-- Unsupported Record/d' 2node.svg
 sed -i '/<title>/d' 2node.svg
 sed -i 's/group1235-141/oob-mgmt-server/' 2node.svg
