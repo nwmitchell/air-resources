@@ -155,7 +155,7 @@
 			<title>Sheet.1213</title>
 			<ellipse cx="7.875" cy="610.178" rx="7.875" ry="1.82176" class="st5"/>
 		</g>
-		<g id="group1215-99" transform="translate(612,-477)">
+		<g id="oob-mgmt-server" transform="translate(612,-477)">
 			<title>Sheet.1215</title>
 			<g id="shape27-100" transform="translate(-7.99361E-15,-30.8148)">
 				<title>Sheet.27</title>
@@ -650,7 +650,7 @@
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 			</g>
 		</g>
-		<g id="group1218-120" transform="translate(134.437,-168.921)">
+		<g id="compute01" transform="translate(134.437,-168.921)">
 			<title>Sheet.1218</title>
 			<g id="shape23-121" transform="translate(-7.99361E-15,-30.8148)">
 				<title>Sheet.23</title>
@@ -839,7 +839,7 @@
 				<rect x="0" y="580.843" width="118.125" height="31.1574" class="st7"/>
 				<text x="31.19" y="600.02" class="st8">compute01</text>			</g>
 		</g>
-		<g id="group1219-127" transform="translate(269.437,-168.921)">
+		<g id="compute02" transform="translate(269.437,-168.921)">
 			<title>Sheet.1219</title>
 			<g id="shape24-128" transform="translate(7.99361E-15,-30.8148)">
 				<title>Sheet.24</title>
@@ -1028,7 +1028,7 @@
 				<rect x="0" y="580.843" width="118.125" height="31.1574" class="st7"/>
 				<text x="31.19" y="600.02" class="st8">compute02</text>			</g>
 		</g>
-		<g id="group1220-134" transform="translate(404.438,-169.264)">
+		<g id="storage01" transform="translate(404.438,-169.264)">
 			<title>Sheet.1220</title>
 			<g id="shape25-135" transform="translate(2.39808E-14,-30.4722)">
 				<title>Sheet.25</title>
@@ -1217,7 +1217,7 @@
 				<rect x="0" y="580.843" width="118.125" height="31.1574" class="st7"/>
 				<text x="34.68" y="600.02" class="st8">storage01</text>			</g>
 		</g>
-		<g id="group1221-141" transform="translate(539.438,-168.921)">
+		<g id="storage02" transform="translate(539.438,-168.921)">
 			<title>Sheet.1221</title>
 			<g id="shape26-142" transform="translate(1.67896E-06,-30.8148)">
 				<title>Sheet.26</title>
