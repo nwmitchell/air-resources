@@ -1,0 +1,21 @@
+#!/bin/bash
+
+cp ../cumulus_dgx_reference/inventories/dgx_2node/topology.svg 2node.svg
+sed -i '1,3d' 2node.svg
+sed -i 's/font-size:1.00001em/font-size:9px/' 2node.svg
+sed -i '/<!-- Unsupported Record/d' 2node.svg
+sed -i '/<title>/d' 2node.svg
+sed -i 's/group1235-141/oob-mgmt-server/' 2node.svg
+sed -i 's/group1223-99/gpu-stg-leaf01/' 2node.svg
+sed -i 's/group1224-106/gpu-stg-leaf02/' 2node.svg
+sed -i 's/group1231-113/compute01/' 2node.svg
+sed -i 's/group1232-120/compute02/' 2node.svg
+sed -i 's/group1233-127/storage01/' 2node.svg
+sed -i 's/group1234-134/storage02/' 2node.svg
+cp ../cumulus_dgx_reference/inventories/dgx_4node/topology.svg 4node.svg
+sed -i '1,3d' 4node.svg
+sed -i 's/font-size:1.00001em/font-size:9px/' 4node.svg
+cp ../cumulus_dgx_reference/inventories/dgx_8node/topology.svg 8node.svg
+sed -i '1,3d' 8node.svg
+sed -i 's/font-size:1.00001em/font-size:9px/' 8node.svg
+git commit -am 'Updated via update script'; git push
