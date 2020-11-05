@@ -33,4 +33,27 @@ sed -i 's/group1305-145/storage02/' 4node.svg
 cp ../cumulus_dgx_reference/inventories/dgx_8node/topology.svg 8node.svg
 sed -i '1,3d' 8node.svg
 sed -i 's/font-size:1.00001em/font-size:12px/' 8node.svg
+sed -i '/<!-- Unsupported Record/d' 8node.svg
+sed -i '/<title>/d' 8node.svg
+sed -i 's/group2044-380/oob-mgmt-server/' 8node.svg
+sed -i 's/group2040-352/gpu-spine01/' 8node.svg
+sed -i 's/group2041-359/gpu-spine02/' 8node.svg
+sed -i 's/group2042-366/gpu-spine03/' 8node.svg
+sed -i 's/group2043-373/gpu-spine04/' 8node.svg
+sed -i 's/group2060-492/gpu-leaf01/' 8node.svg
+sed -i 's/group2059-485/gpu-leaf02/' 8node.svg
+sed -i 's/group2058-478/gpu-leaf03/' 8node.svg
+sed -i 's/group2057-471/gpu-leaf04/' 8node.svg
+sed -i 's/group2047-401/stg-leaf01/' 8node.svg
+sed -i 's/group2048-408/stg-leaf02/' 8node.svg
+sed -i 's/group2056-464/compute01/' 8node.svg
+sed -i 's/group2055-457/compute02/' 8node.svg
+sed -i 's/group2054-450/compute03/' 8node.svg
+sed -i 's/group2053-443/compute04/' 8node.svg
+sed -i 's/group2052-436/compute05/' 8node.svg
+sed -i 's/group2051-429/compute06/' 8node.svg
+sed -i 's/group2050-422/compute07/' 8node.svg
+sed -i 's/group2049-415/compute08/' 8node.svg
+sed -i 's/group2045-387/storage01/' 8node.svg
+sed -i 's/group2046-394/storage02/' 8node.svg
 git commit -am 'Updated via update script'; git push
