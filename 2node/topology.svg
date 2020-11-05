@@ -1245,7 +1245,6 @@
 		<g id="oob-mgmt-server" transform="translate(601.875,-504)">
 			<title>oob-server</title>
 			<g id="shape28-142">
-				<title>oob-server-img</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -1426,7 +1425,6 @@
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 			</g>
 			<g id="shape1236-145" transform="translate(49.8545,-8.30324)">
-				<title>oob-server-label</title>
 				<desc>oob-server</desc>
 				<rect x="0" y="596.421" width="64.4625" height="15.5787" class="st8"/>
 				<text x="5.7" y="607.81" class="st9">oob-server</text>			</g>
