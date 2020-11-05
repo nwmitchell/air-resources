@@ -159,7 +159,7 @@
 		<g id="gpu-stg-leaf01" transform="translate(241.875,-415.736)">
 			<title>gpu-stg-leaf01</title>
 			<g id="shape21-100">
-				<title>Sheet.21</title>
+				<title>gpu-stg-leaf01</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -324,7 +324,7 @@
 		<g id="gpu-stg-leaf02" transform="translate(432,-415.736)">
 			<title>gpu-stg-leaf02</title>
 			<g id="shape22-107">
-				<title>Sheet.22</title>
+				<title>gpu-stg-leaf02</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -486,10 +486,10 @@
 				<rect x="0" y="596.421" width="81" height="15.5787" class="st8"/>
 				<text x="5.37" y="607.81" class="st9">gpu-stg-leaf02</text>			</g>
 		</g>
-		<g id="oob-server" transform="translate(612,-507.815)">
+		<g id="oob-mgmt-server" transform="translate(612,-507.815)">
 			<title>oob-server</title>
 			<g id="shape27-114">
-				<title>Sheet.27</title>
+				<title>oob-server</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -654,7 +654,7 @@
 		<g id="compute01" transform="translate(134.437,-199.736)">
 			<title>compute01</title>
 			<g id="shape23-121">
-				<title>Sheet.23</title>
+				<title>compute01</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -843,7 +843,7 @@
 		<g id="compute02" transform="translate(269.437,-199.736)">
 			<title>compute02</title>
 			<g id="shape24-128">
-				<title>Sheet.24</title>
+				<title>compute02</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -1032,7 +1032,7 @@
 		<g id="storage01" transform="translate(404.438,-199.736)">
 			<title>storage01</title>
 			<g id="shape25-135">
-				<title>Sheet.25</title>
+				<title>storage01</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
@@ -1221,7 +1221,7 @@
 		<g id="storage02" transform="translate(539.438,-199.736)">
 			<title>storage02</title>
 			<g id="shape26-142">
-				<title>Sheet.26</title>
+				<title>storage02</title>
 				<rect x="0" y="579.815" width="118.125" height="32.1852" class="st7"/>
 				<!-- Unsupported Record: EmfPlusRecordTypeSetPixelOffsetMode  -->
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="32.1852" preserveAspectRatio="none" width="118.125" x="0"
