@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ../cumulus_dgx_reference/inventories/dgx_2node/topology.svg 2node.svg
+cp ../cumulus_dgx_reference/inventories/dgx_2node/topology/topology.svg 2node.svg
 sed -i '1,3d' 2node.svg
 sed -i 's/font-size:1.00001em/font-size:12px/' 2node.svg
 sed -i '/<!-- Unsupported Record/d' 2node.svg
@@ -12,7 +12,7 @@ sed -i 's/group1231-113/compute01/' 2node.svg
 sed -i 's/group1232-120/compute02/' 2node.svg
 sed -i 's/group1233-127/storage01/' 2node.svg
 sed -i 's/group1234-134/storage02/' 2node.svg
-cp ../cumulus_dgx_reference/inventories/dgx_4node/topology.svg 4node.svg
+cp ../cumulus_dgx_reference/inventories/dgx_4node/topology/topology.svg 4node.svg
 sed -i '1,3d' 4node.svg
 sed -i 's/font-size:1.00001em/font-size:12px/' 4node.svg
 sed -i '/<!-- Unsupported Record/d' 4node.svg
@@ -30,7 +30,7 @@ sed -i 's/group1309-173/compute03/' 4node.svg
 sed -i 's/group1308-166/compute04/' 4node.svg
 sed -i 's/group1304-138/storage01/' 4node.svg
 sed -i 's/group1305-145/storage02/' 4node.svg
-cp ../cumulus_dgx_reference/inventories/dgx_8node/topology.svg 8node.svg
+cp ../cumulus_dgx_reference/inventories/dgx_8node/topology/topology.svg 8node.svg
 sed -i '1,3d' 8node.svg
 sed -i 's/font-size:1.00001em/font-size:12px/' 8node.svg
 sed -i '/<!-- Unsupported Record/d' 8node.svg
