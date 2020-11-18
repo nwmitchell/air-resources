@@ -172,7 +172,7 @@
 		<g id="shape1270-157" transform="translate(63,-341.217)">
 			<path d="M0 450 L310.5 569.48" class="st1"/>
 		</g>
-		<g id="group2040-160" transform="translate(18,-341.217)">
+		<g id="gpu-spine01" transform="translate(18,-341.217)">
 			<g id="shape45-161">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -330,7 +330,7 @@
 				<rect x="0" y="437.511" width="68.625" height="12.489" class="st5"/>
 				<text x="4.25" y="447.36" class="st6">gpu-spine01</text>			</g>
 		</g>
-		<g id="group2041-167" transform="translate(121.5,-341.217)">
+		<g id="gpu-spine02" transform="translate(121.5,-341.217)">
 			<g id="shape32-168">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -488,7 +488,7 @@
 				<rect x="0" y="437.511" width="68.625" height="12.489" class="st5"/>
 				<text x="4.25" y="447.36" class="st6">gpu-spine02</text>			</g>
 		</g>
-		<g id="group2042-174" transform="translate(225,-341.217)">
+		<g id="gpu-spine03" transform="translate(225,-341.217)">
 			<g id="shape33-175">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -646,7 +646,7 @@
 				<rect x="0" y="437.511" width="68.625" height="12.489" class="st5"/>
 				<text x="4.25" y="447.36" class="st6">gpu-spine03</text>			</g>
 		</g>
-		<g id="group2043-181" transform="translate(328.5,-341.217)">
+		<g id="gpu-spine04" transform="translate(328.5,-341.217)">
 			<g id="shape46-182">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -804,7 +804,7 @@
 				<rect x="0" y="437.511" width="68.625" height="12.489" class="st5"/>
 				<text x="4.25" y="447.36" class="st6">gpu-spine04</text>			</g>
 		</g>
-		<g id="group2044-188" transform="translate(648,-407.478)">
+		<g id="oob-mgmt-server" transform="translate(648,-407.478)">
 			<g id="shape48-189">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -986,7 +986,7 @@
 				<rect x="0" y="437.511" width="63" height="12.489" class="st5"/>
 				<text x="4.97" y="447.36" class="st6">oob-server</text>			</g>
 		</g>
-		<g id="group2045-195" transform="translate(544.5,-341.217)">
+		<g id="storage01" transform="translate(544.5,-341.217)">
 			<g id="shape43-196">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -1168,7 +1168,7 @@
 				<rect x="0" y="437.511" width="57.375" height="12.489" class="st5"/>
 				<text x="4.31" y="447.36" class="st6">storage01</text>			</g>
 		</g>
-		<g id="group2046-202" transform="translate(648,-341.217)">
+		<g id="storage02" transform="translate(648,-341.217)">
 			<g id="shape44-203">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -1350,7 +1350,7 @@
 				<rect x="0" y="437.511" width="57.375" height="12.489" class="st5"/>
 				<text x="4.31" y="447.36" class="st6">storage02</text>			</g>
 		</g>
-		<g id="group2047-209" transform="translate(544.5,-197.217)">
+		<g id="stg-leaf01" transform="translate(544.5,-197.217)">
 			<g id="shape42-210">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -1508,7 +1508,7 @@
 				<rect x="0" y="437.511" width="63" height="12.489" class="st5"/>
 				<text x="7.33" y="447.36" class="st6">stg-leaf01</text>			</g>
 		</g>
-		<g id="group2048-216" transform="translate(648,-197.217)">
+		<g id="stg-leaf02" transform="translate(648,-197.217)">
 			<g id="shape41-217">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -1666,7 +1666,7 @@
 				<rect x="0" y="437.511" width="63" height="12.489" class="st5"/>
 				<text x="7.33" y="447.36" class="st6">stg-leaf02</text>			</g>
 		</g>
-		<g id="group2049-223" transform="translate(648,-17.217)">
+		<g id="compute08" transform="translate(648,-17.217)">
 			<g id="shape40-224">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -1848,7 +1848,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute08</text>			</g>
 		</g>
-		<g id="group2050-230" transform="translate(558,-17.217)">
+		<g id="compute07" transform="translate(558,-17.217)">
 			<g id="shape39-231">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -2030,7 +2030,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute07</text>			</g>
 		</g>
-		<g id="group2051-237" transform="translate(468,-17.217)">
+		<g id="compute06" transform="translate(468,-17.217)">
 			<g id="shape38-238">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -2212,7 +2212,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute06</text>			</g>
 		</g>
-		<g id="group2052-244" transform="translate(378,-17.217)">
+		<g id="compute05" transform="translate(378,-17.217)">
 			<g id="shape37-245">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -2394,7 +2394,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute05</text>			</g>
 		</g>
-		<g id="group2053-251" transform="translate(288,-17.217)">
+		<g id="compute04" transform="translate(288,-17.217)">
 			<g id="shape36-252">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -2576,7 +2576,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute04</text>			</g>
 		</g>
-		<g id="group2054-258" transform="translate(198,-17.217)">
+		<g id="compute03" transform="translate(198,-17.217)">
 			<g id="shape35-259">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -2758,7 +2758,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute03</text>			</g>
 		</g>
-		<g id="group2055-265" transform="translate(108,-17.217)">
+		<g id="compute02" transform="translate(108,-17.217)">
 			<g id="shape34-266">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -2940,7 +2940,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute02</text>			</g>
 		</g>
-		<g id="group2056-272" transform="translate(18,-17.217)">
+		<g id="compute01" transform="translate(18,-17.217)">
 			<g id="shape28-273">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -3122,7 +3122,7 @@
 				<rect x="0" y="437.511" width="64.6875" height="12.489" class="st5"/>
 				<text x="4.47" y="447.36" class="st6">compute01</text>			</g>
 		</g>
-		<g id="group2057-279" transform="translate(328.5,-197.217)">
+		<g id="gpu-leaf04" transform="translate(328.5,-197.217)">
 			<g id="shape31-280">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -3280,7 +3280,7 @@
 				<rect x="0" y="437.511" width="63" height="12.489" class="st5"/>
 				<text x="5.38" y="447.36" class="st6">gpu-leaf04</text>			</g>
 		</g>
-		<g id="group2058-286" transform="translate(225,-197.217)">
+		<g id="gpu-leaf03" transform="translate(225,-197.217)">
 			<g id="shape30-287">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -3438,7 +3438,7 @@
 				<rect x="0" y="437.511" width="63" height="12.489" class="st5"/>
 				<text x="5.38" y="447.36" class="st6">gpu-leaf03</text>			</g>
 		</g>
-		<g id="group2059-293" transform="translate(121.5,-197.217)">
+		<g id="gpu-leaf02" transform="translate(121.5,-197.217)">
 			<g id="shape29-294">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
@@ -3596,7 +3596,7 @@
 				<rect x="0" y="437.511" width="63" height="12.489" class="st5"/>
 				<text x="5.38" y="447.36" class="st6">gpu-leaf02</text>			</g>
 		</g>
-		<g id="group2060-300" transform="translate(18,-197.217)">
+		<g id="gpu-leaf01" transform="translate(18,-197.217)">
 			<g id="shape27-301">
 				<rect x="0" y="425.478" width="90" height="24.522" class="st4"/>
 				<svg viewBox="-0.70833 -0.70968 824.97 225.2" height="24.522" preserveAspectRatio="none" width="90" x="0"
